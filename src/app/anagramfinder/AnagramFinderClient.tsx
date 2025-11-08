@@ -15,7 +15,7 @@ export default function AnagramFinderClient() {
 
   useEffect(() => {
     if (status === 'unauthenticated') {
-      router.replace('/api/auth/signin');
+      // router.replace('/api/auth/signin');
     }
   }, [status, router]);
 
