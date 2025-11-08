@@ -4,6 +4,7 @@
 
 1. This is a Next 16 app and requires Node version 20 or above to run.
 2. I've assumed the file "https://raw.githubusercontent.com/dwyl/english-words/master/words.txt" (wordListURL) is the source of truth for known anagrams for the purpose of this task.
+3. HeroUI is used for buttons and inputs and could be used for other components if required.
 
 ## Getting Started
 
